@@ -124,7 +124,7 @@ All the above functional tests were successfully completed.
 
 ## 👨‍💻 Author
 
-**Milan Attumalil**
+**Milan Rajesh Attumalil**
 
 B.Sc. Data Science and Analytics
 
